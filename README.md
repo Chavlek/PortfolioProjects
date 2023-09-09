@@ -1,15 +1,16 @@
 # PortfolioProjects
 
-## Two provided .csv files in the repo were used to explore the COVID data
-
+#SQL Covid EDA
+## SQL COVID EDA files:
 1) CovidDeaths1.csv
 2) CovidVaccs1.csv
+3) Covid_SQL_DataExploration_noOuts.ipynb
 
-## The First Exploratory analysis is presented in:
 
-1) Covid_SQL_DataExploration_noOuts.ipynb
-2) Covid_SQL_DataExploration.ipynb
+#SQL Data Cleaning 
+## Data cleaning files:
+1) DataCleaningSQL.sql
+2) Nashville Housing Data for Cleaning.csv
 
-Because of the large file size, SQL query outputs were removed from Covid_SQL_DataExploration_noOuts.ipynb so it can be previewed directly on GitHub
 
 
